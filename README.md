@@ -76,6 +76,13 @@ const Kalyan = {
 ---
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 25 January 2025 - To: 26 January 2025
+
+Total Time: 6 mins
+```
+
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/pkalyankumar1010/waka-readme-stats)**
