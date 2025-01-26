@@ -151,5 +151,5 @@ Last Updated on 26/01/2025 19:27:51 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [profile-readme-development-stats](https://github.com/marketplace/actions/profile-readme-development-stats)**
-
+**Profile Refernce [@anmol098](https://github.com/anmol098/)**
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
