@@ -78,13 +78,13 @@ const Kalyan = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 98.5 kB Used in GitHub's Storage 
+> 📦 98.6 kB Used in GitHub's Storage 
  > 
-> 🏆 86 Contributions in the Year 2025
+> 🏆 89 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -134,11 +134,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             ███████████░░░░░░░░░░░░░░   42.11 % 
-JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   8 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
@@ -148,7 +148,7 @@ Markdown                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pkalyankumar1010/pkalyankumar1010/main/assets/bar_graph.png)
 
 
- Last Updated on 09/02/2025 01:10:57 UTC
+ Last Updated on 10/02/2025 01:08:31 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [profile-readme-development-stats](https://github.com/marketplace/actions/profile-readme-development-stats)**
