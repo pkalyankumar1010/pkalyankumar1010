@@ -78,13 +78,13 @@ const Kalyan = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 107.0 kB Used in GitHub's Storage 
+> 📦 107.3 kB Used in GitHub's Storage 
  > 
-> 🏆 319 Contributions in the Year 2025
+> 🏆 327 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -148,7 +148,7 @@ Jinja                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pkalyankumar1010/pkalyankumar1010/main/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2025 01:14:10 UTC
+ Last Updated on 03/03/2025 01:12:14 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [profile-readme-development-stats](https://github.com/marketplace/actions/profile-readme-development-stats)**
