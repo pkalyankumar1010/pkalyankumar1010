@@ -82,9 +82,9 @@ const Kalyan = {
 
 **🐱 My GitHub Data** 
 
-> 📦 187.1 kB Used in GitHub's Storage 
+> 📦 187.9 kB Used in GitHub's Storage 
  > 
-> 🏆 624 Contributions in the Year 2025
+> 🏆 628 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -134,11 +134,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            ████████░░░░░░░░░░░░░░░░░   32.35 % 
-JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Jinja                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Python                   11 repos            ████████░░░░░░░░░░░░░░░░░   31.43 % 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Jinja                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
@@ -148,7 +148,7 @@ Jinja                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pkalyankumar1010/pkalyankumar1010/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2025 01:21:08 UTC
+ Last Updated on 12/06/2025 01:19:48 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [profile-readme-development-stats](https://github.com/marketplace/actions/profile-readme-development-stats)**
