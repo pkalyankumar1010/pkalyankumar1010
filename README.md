@@ -82,7 +82,9 @@ const Kalyan = {
 
 **🐱 My GitHub Data** 
 
-> 📦 239.6 kB Used in GitHub's Storage 
+> 📦 240.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 710 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -146,7 +148,7 @@ Jinja                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pkalyankumar1010/pkalyankumar1010/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2025 01:40:12 UTC
+ Last Updated on 14/07/2025 01:27:21 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [profile-readme-development-stats](https://github.com/marketplace/actions/profile-readme-development-stats)**
