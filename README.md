@@ -82,7 +82,7 @@ const Kalyan = {
 
 **🐱 My GitHub Data** 
 
-> 📦 287.6 kB Used in GitHub's Storage 
+> 📦 288.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -146,7 +146,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pkalyankumar1010/pkalyankumar1010/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2025 01:19:35 UTC
+ Last Updated on 01/09/2025 01:26:21 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [profile-readme-development-stats](https://github.com/marketplace/actions/profile-readme-development-stats)**
