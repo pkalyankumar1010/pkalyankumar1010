@@ -82,7 +82,7 @@ const Kalyan = {
 
 **🐱 My GitHub Data** 
 
-> 📦 296.3 kB Used in GitHub's Storage 
+> 📦 297.1 kB Used in GitHub's Storage 
  > 
 > 🏆 817 Contributions in the Year 2025
  > 
@@ -148,7 +148,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pkalyankumar1010/pkalyankumar1010/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2025 01:13:58 UTC
+ Last Updated on 12/09/2025 01:10:59 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [profile-readme-development-stats](https://github.com/marketplace/actions/profile-readme-development-stats)**
