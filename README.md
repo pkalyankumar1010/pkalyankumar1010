@@ -76,69 +76,26 @@ const Kalyan = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2013%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 300.1 kB Used in GitHub's Storage 
- > 
-> 🏆 819 Contributions in the Year 2025
+> 📦 300.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 72 Public Repositories 
+> 📜 73 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-🌆 Daytime                113 commits         ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-🌃 Evening                222 commits         ████████████░░░░░░░░░░░░░   47.64 % 
-🌙 Night                  98 commits          █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   119 commits         ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
-Tuesday                  22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Wednesday                44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Thursday                 40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Friday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Saturday                 69 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Sunday                   141 commits         ████████░░░░░░░░░░░░░░░░░   30.26 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Python                   12 repos            ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
@@ -148,7 +105,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pkalyankumar1010/pkalyankumar1010/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 01:12:18 UTC
+ Last Updated on 17/09/2025 01:11:54 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [profile-readme-development-stats](https://github.com/marketplace/actions/profile-readme-development-stats)**
