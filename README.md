@@ -76,11 +76,13 @@ const Kalyan = {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2013%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 354.0 kB Used in GitHub's Storage 
+> 📦 354.8 kB Used in GitHub's Storage 
  > 
 > 🏆 828 Contributions in the Year 2025
  > 
@@ -90,6 +92,45 @@ const Kalyan = {
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+🌆 Daytime                115 commits         ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+🌃 Evening                225 commits         ████████████░░░░░░░░░░░░░   47.37 % 
+🌙 Night                  99 commits          █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   119 commits         ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+Tuesday                  26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Wednesday                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Thursday                 42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Friday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Saturday                 69 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Sunday                   141 commits         ███████░░░░░░░░░░░░░░░░░░   29.68 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -107,7 +148,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pkalyankumar1010/pkalyankumar1010/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2025 01:11:09 UTC
+ Last Updated on 21/09/2025 01:19:39 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [profile-readme-development-stats](https://github.com/marketplace/actions/profile-readme-development-stats)**
