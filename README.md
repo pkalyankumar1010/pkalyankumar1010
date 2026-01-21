@@ -82,13 +82,13 @@ const Kalyan = {
 
 **🐱 My GitHub Data** 
 
-> 📦 452.9 kB Used in GitHub's Storage 
+> 📦 453.7 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2026
+> 🏆 5 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 81 Public Repositories 
+> 📜 82 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
  > 
@@ -134,11 +134,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            ████████░░░░░░░░░░░░░░░░░   31.82 % 
-TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Python                   14 repos            ████████░░░░░░░░░░░░░░░░░   31.11 % 
+TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
@@ -148,7 +148,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pkalyankumar1010/pkalyankumar1010/main/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2026 01:25:59 UTC
+ Last Updated on 21/01/2026 01:28:54 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [profile-readme-development-stats](https://github.com/marketplace/actions/profile-readme-development-stats)**
