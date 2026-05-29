@@ -76,8 +76,6 @@ const Kalyan = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2013%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -92,45 +90,6 @@ const Kalyan = {
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-🌆 Daytime                123 commits         █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-🌃 Evening                255 commits         ███████████░░░░░░░░░░░░░░   44.58 % 
-🌙 Night                  169 commits         ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   146 commits         ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
-Tuesday                  36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Wednesday                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Thursday                 45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Friday                   32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Saturday                 104 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Sunday                   150 commits         ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -148,7 +107,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pkalyankumar1010/pkalyankumar1010/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 02:50:40 UTC
+ Last Updated on 29/05/2026 02:54:35 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [profile-readme-development-stats](https://github.com/marketplace/actions/profile-readme-development-stats)**
