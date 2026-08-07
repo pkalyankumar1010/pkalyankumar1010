@@ -76,13 +76,11 @@ const Kalyan = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2013%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 618.2 kB Used in GitHub's Storage 
+> 📦 619.0 kB Used in GitHub's Storage 
  > 
 > 🏆 45 Contributions in the Year 2026
  > 
@@ -92,51 +90,6 @@ const Kalyan = {
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-🌆 Daytime                112 commits         █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-🌃 Evening                250 commits         ███████████░░░░░░░░░░░░░░   44.96 % 
-🌙 Night                  169 commits         ████████░░░░░░░░░░░░░░░░░   30.40 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   146 commits         ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-Tuesday                  30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-Wednesday                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Thursday                 47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Friday                   32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Saturday                 104 commits         █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-Sunday                   150 commits         ███████░░░░░░░░░░░░░░░░░░   26.98 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -154,7 +107,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pkalyankumar1010/pkalyankumar1010/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 02:13:14 UTC
+ Last Updated on 07/08/2026 02:30:21 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [profile-readme-development-stats](https://github.com/marketplace/actions/profile-readme-development-stats)**
